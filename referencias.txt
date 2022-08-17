@@ -1,0 +1,13 @@
+https://github.com/dtsong/sleeper-api-wrapper#get_all_stats
+
+https://towardsdatascience.com/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e
+https://github.com/woutervanheeswijk/example_deep_q_learning/blob/main/main.py
+https://towardsdatascience.com/how-to-teach-an-ai-to-play-games-deep-reinforcement-learning-28f9b920440a
+https://github.com/maurock/snake-ga/blob/71a725f4ec229ad485c7dbc4f69f831ba9485c92/snakeClass.py
+https://towardsdatascience.com/playing-connect-4-with-deep-q-learning-76271ed663ca
+https://ai.stackexchange.com/questions/11350/reinforcement-learning-with-long-term-rewards-and-fixed-states-and-actions
+https://www.kaggle.com/code/alexisbcook/deep-reinforcement-learning
+https://github.com/keras-rl/keras-rl/blob/master/examples/dqn_cartpole.py#L18
+https://github.com/taylormcnally/keras-rl2/blob/master/examples/dqn_cartpole.py
+https://www.section.io/engineering-education/building-a-reinforcement-learning-environment-using-openai-gym/
+https://blog.paperspace.com/getting-started-with-openai-gym/
